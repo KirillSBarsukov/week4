@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[12]:
-
 
 # import random function
 import random
@@ -44,6 +42,3 @@ print("Computer number is " + str(randomNumber))
 print("Statistics: ") 
 print("Number of rounds: " + str(indexFirst)) 
 print("Number of guesses: " + str(indexSecond))
-
-
-# 
