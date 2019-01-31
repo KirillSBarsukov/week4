@@ -32,7 +32,7 @@ for indexFirst in range (1,5):
             print("Number of rounds: " + str(indexFirst))
             print("Number of guesses: " + str(indexSecond))
             print("Hurray!")
-            # User break statement if user gueesrd the number
+            # User break statement if user gueesed the number
             break
 
 # Round counter            
